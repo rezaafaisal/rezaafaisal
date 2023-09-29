@@ -1,1 +1,1 @@
-## Hi there, ![hi](source/images/icon/hi.gif)
+## Hi there, <img src="./source/images/icon/hi.gif" height="40px" width="40px" >
