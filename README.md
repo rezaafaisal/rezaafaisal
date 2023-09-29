@@ -1,1 +1,1 @@
-## Hi there, <img src="./source/images/icon/hi.gif" height="40px" width="40px" >
+## Hi there, <img src="./source/images/icon/hi.png" height="30px" width="30px" >
